@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **arunapawar288@gmail.com**
 
-- 📄 Know about my experiences [I have 4 years of total experience in IT as Application Support engineer Core.Skills are UNIX, SQL, Oracle, Power BI and Production Support.](I have 4 years of total experience in IT as Application Support engineer Core.Skills are UNIX, SQL, Oracle, Power BI and Production Support.)
+- 📄 I have 4 years of total experience in IT as Application Support engineer Core.Skills are UNIX, SQL, Oracle, Power BI and Production Support.
 
 - ⚡ Fun fact **I like to learning new languages**
 
